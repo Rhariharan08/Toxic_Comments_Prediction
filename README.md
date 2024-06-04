@@ -35,7 +35,7 @@ The input text is tokenized by splitting it up into discrete tokens or subwords,
 The Bi-Directional LSTM (Long Short-Term Memory) model is a powerful deep learning architecture commonly used for sequence classification tasks, including text classification. In the context of toxic comment prediction, the model analyzes the textual content of comments to accurately classify them as toxic or non-toxic. By leveraging bidirectional information flow and memory cells, Bi-LSTM models can capture complex patterns and dependencies within the input sequences, leading to more accurate predictions.
 
 # Model Architecture
-![model](https://github.com/Rhariharan2003/Projects/assets/136108485/b3e95c85-13b3-4ebb-8536-1c2bedd6b313)
+![model](https://github.com/Rhariharan08/Toxic_Comments_Prediction/blob/main/model.png)
 
 
 # Performance Evaluation
