@@ -3,7 +3,7 @@
 # Introduction
 Online platforms present a serious problem with toxic remarks that impact community dynamics, user experience, and even mental health. Toxic remarks can be automatically identified and filtered out to help reduce these problems and encourage positive online relationships. The goal of this research is to effectively forecast harmful comments by utilizing machine learning and natural language processing (NLP) techniques.
 
-![1_8BdmU3wYefT7vDZRWWOL1Q](https://github.com/Rhariharan2003/Projects/assets/136108485/caf21c5f-afed-41e2-a9c2-d64eca7a0ad8)
+![1_8BdmU3wYefT7vDZRWWOL1Q](https://github.com/Rhariharan08/Toxic_Comments_Prediction/blob/main/1_8BdmU3wYefT7vDZRWWOL1Q.jpg)
 
 
 # Problem Statement
